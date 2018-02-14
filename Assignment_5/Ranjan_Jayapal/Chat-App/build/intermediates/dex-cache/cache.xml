@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rjmac/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment5/Chat-App/app/build/intermediates/pre-dexed/debug/guava-20.0_b54cb97bafdf19bd31afc198df09477d28836c1e.jar" />
+    </item>
+
+</items>
