@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Oneway/app/build/intermediates/res/merged/debug/menu/chatserver_menu.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Oneway/app/src/main/res/menu/chatserver_menu.xml"
+    },
+    {
+        "merged": "/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment4/Chat-Server-Oneway/app/build/intermediates/res/merged/debug/menu/chatserver_menu.xml",
+        "source": "/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment4/Chat-Server-Oneway/app/src/main/res/menu/chatserver_menu.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Content-Provider/app/build/intermediates/res/merged/debug/menu/chatserver_menu.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Content-Provider/app/src/main/res/menu/chatserver_menu.xml"
+    }
+]

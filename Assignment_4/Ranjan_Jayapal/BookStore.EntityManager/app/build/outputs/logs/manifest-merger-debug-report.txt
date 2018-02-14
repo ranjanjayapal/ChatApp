@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:5:5-35:19
+	android:label
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:10:9-40
+activity#edu.stevens.cs522.bookstore.activities.MainActivity
+ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:12:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:16:27-74
+activity#edu.stevens.cs522.bookstore.activities.AddBookActivity
+ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:19:9-21:63
+	android:label
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:20:13-55
+activity#edu.stevens.cs522.bookstore.activities.ViewBookActivity
+ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:22:9-24:64
+	android:label
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:24:13-61
+	android:name
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:23:13-56
+activity#edu.stevens.cs522.bookstore.activities.CheckoutActivity
+ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:25:9-27:63
+	android:label
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:27:13-60
+	android:name
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:26:13-56
+provider#edu.stevens.cs522.bookstore.providers.BookProvider
+ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:29:9-33:39
+	android:authorities
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:31:13-62
+	android:enabled
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml:30:13-51
+uses-sdk
+INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/AndroidManifest.xml

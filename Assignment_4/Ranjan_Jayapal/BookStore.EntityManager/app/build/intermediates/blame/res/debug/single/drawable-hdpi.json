@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_mapmode.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_mapmode.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_share.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_share.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_search.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_search.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_view.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_view.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_help.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_help.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_back.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_back.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_add.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_add.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_edit.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_edit.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_delete.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_refresh.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_block.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_block.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_stop.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_stop.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_save.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_save.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_clear_playlist.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/drawable-hdpi/ic_menu_clear_playlist.png"
+    }
+]

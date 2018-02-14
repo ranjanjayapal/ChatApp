@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Client/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Client/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Client-Oneway/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Client-Oneway/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

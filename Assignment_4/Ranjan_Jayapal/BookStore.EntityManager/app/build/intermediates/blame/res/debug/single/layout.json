@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/layout/view_book.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/layout/view_book.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/layout/add_book.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/layout/add_book.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/layout/checkout.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/layout/checkout.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/layout/cart_row.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/layout/cart_row.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/build/intermediates/res/merged/debug/layout/cart.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStore.EntityManager/app/src/main/res/layout/cart.xml"
+    }
+]

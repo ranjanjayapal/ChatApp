@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment4/Chat-Server-Oneway/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment4/Chat-Server-Oneway/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Content-Provider/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Content-Provider/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Oneway/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Oneway/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment4/Chat-Server-Oneway/app/build/intermediates/res/merged/debug/layout/view_peers.xml",
+        "source": "/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment4/Chat-Server-Oneway/app/src/main/res/layout/view_peers.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Content-Provider/app/build/intermediates/res/merged/debug/layout/view_peers.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Content-Provider/app/src/main/res/layout/view_peers.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Oneway/app/build/intermediates/res/merged/debug/layout/view_peers.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Oneway/app/src/main/res/layout/view_peers.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Content-Provider/app/build/intermediates/res/merged/debug/layout/view_peer.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Content-Provider/app/src/main/res/layout/view_peer.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Content-Provider/app/build/intermediates/res/merged/debug/layout/messages.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Content-Provider/app/src/main/res/layout/messages.xml"
+    },
+    {
+        "merged": "/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment4/Chat-Server-Oneway/app/build/intermediates/res/merged/debug/layout/messages.xml",
+        "source": "/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment4/Chat-Server-Oneway/app/src/main/res/layout/messages.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Oneway/app/build/intermediates/res/merged/debug/layout/messages.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Oneway/app/src/main/res/layout/messages.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Oneway/app/build/intermediates/res/merged/debug/layout/view_peer.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Server-Oneway/app/src/main/res/layout/view_peer.xml"
+    },
+    {
+        "merged": "/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment4/Chat-Server-Oneway/app/build/intermediates/res/merged/debug/layout/view_peer.xml",
+        "source": "/Users/rjmac/Downloads/CS522-Mobile-Systems-and-Applications-master/assignment4/Chat-Server-Oneway/app/src/main/res/layout/view_peer.xml"
+    }
+]

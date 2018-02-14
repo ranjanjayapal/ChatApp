@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Client-Oneway/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Client-Oneway/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Client/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/Chat-Client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v16/notification_template_custom_big.xml"
+    }
+]
