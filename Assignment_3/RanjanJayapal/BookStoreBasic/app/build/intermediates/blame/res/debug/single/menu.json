@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/build/intermediates/res/merged/debug/menu/bookstore_menu.xml",
+        "source": "/Users/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/src/main/res/menu/bookstore_menu.xml"
+    },
+    {
+        "merged": "/Users/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/build/intermediates/res/merged/debug/menu/checkout_menu.xml",
+        "source": "/Users/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/src/main/res/menu/checkout_menu.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/build/intermediates/res/merged/debug/menu/checkout_menu.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/src/main/res/menu/checkout_menu.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/build/intermediates/res/merged/debug/menu/bookstore_menu.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/src/main/res/menu/bookstore_menu.xml"
+    },
+    {
+        "merged": "/Users/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/build/intermediates/res/merged/debug/menu/addbook_menu.xml",
+        "source": "/Users/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/src/main/res/menu/addbook_menu.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/build/intermediates/res/merged/debug/menu/addbook_menu.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/src/main/res/menu/addbook_menu.xml"
+    }
+]

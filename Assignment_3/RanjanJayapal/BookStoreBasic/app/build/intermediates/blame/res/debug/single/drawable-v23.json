@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/Android_files/AndroidProjectsandSDK/Android/AndroidStudioProjects/BookStoreBasic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
